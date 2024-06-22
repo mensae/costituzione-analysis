@@ -5,7 +5,7 @@
 
 Version from the Constitution vs version edited by the Parliament Commission.
 
-### Prompt 2 (Art 92)
+### Prompt 1 (Art 92)
 
 Ti manderò due versioni di un articolo della Costituzione. Vorrei sapere quale è più complicata secondo te, aggiungendo quali parti trovi più complesse e perché. Concentrati sulla complessità linguistica e non quella di significato. Esponi i tuoi commenti per punti.
 
@@ -58,7 +58,7 @@ La **Versione 2** è complessivamente più complicata dal punto di vista linguis
 
 Di conseguenza, la Versione 1 è meno complessa e più accessibile dal punto di vista linguistico.
 
-### Prompt 1 (Art. 94)
+### Prompt 2 (Art. 94)
 Ti manderò due versioni di un articolo della Costituzione. Vorrei sapere quale è più complicata secondo te, aggiungendo quali parti trovi più complesse e perché. Concentrati sulla complessità linguistica e non quella di significato. Esponi i tuoi commenti per punti.
 
 Versione 1:
